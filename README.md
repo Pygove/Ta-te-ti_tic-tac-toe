@@ -1,7 +1,10 @@
 # Ta-te-ti_tic-tac-toe
 ## Proyecto de React simple
-<img src='https://www.flaticon.es/icono-gratis/formato-de-archivo-css_1045906?term=css&page=1&position=9&origin=search&related_id=1045906'/>
-
+![HTML](/ta-te-ti/public/html.png)
+![CSS](/ta-te-ti/public/formato-de-archivo-css.png)
+![JS](/ta-te-ti/public/javascript.png)
+![JSX](/ta-te-ti/public/jsx.png)
+![REACT](/ta-te-ti/public/icons8-react-a-javascript-library-for-building-user-interfaces-96.png)
 >[!NOTE]
 >
 >Este ta-te-ti fue desarrollado gracias al curso de midudev.
